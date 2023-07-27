@@ -2,7 +2,7 @@ return {
   { "catppuccin/nvim" },
   { "folke/tokyonight.nvim" },
   { "rebelot/kanagawa.nvim" },
-  { "rose-pine/neovim", name = "rose-pine", variant = "moon" },
+  { "rose-pine/neovim", name = "rose-pine" },
   {
     "LazyVim/LazyVim",
     opts = {
